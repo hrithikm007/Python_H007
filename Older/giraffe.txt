@@ -1,0 +1,1 @@
+This is a sample for text files in python file handling

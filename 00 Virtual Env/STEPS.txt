@@ -1,0 +1,13 @@
+virtualenv venv 
+(venv is name of environment)
+
+ venv/Scripts/activate
+if got error type this command in powershell as admin
+set-executionpolicy remotesigned
+
+ to get all packages 
+
+1) pip freeze 
+displays all our packages
+2) pip freeze > requirements.txt
+all our packages will be exported as requirements as txt
